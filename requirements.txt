@@ -1,0 +1,8 @@
+metpy
+cartopy
+gcsfs
+zarr
+xarray
+matplotlib
+pandas
+numpy
