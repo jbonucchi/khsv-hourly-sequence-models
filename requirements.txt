@@ -1,8 +1,6 @@
-metpy
-cartopy
-gcsfs
-zarr
-xarray
-matplotlib
+torch
 pandas
 numpy
+scikit-learn
+matplotlib
+requests
